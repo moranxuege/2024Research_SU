@@ -164,3 +164,4 @@ cython_debug/
 .DS_Store
 Data/2022/heart_2022_no_nans.csv
 Data/2022/heart_2022_with_nans.csv
+Data/.DS_Store
