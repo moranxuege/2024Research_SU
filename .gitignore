@@ -162,4 +162,5 @@ cython_debug/
 #.idea/
 
 .DS_Store
-.csv
+Data/2022/heart_2022_no_nans.csv
+Data/2022/heart_2022_with_nans.csv
